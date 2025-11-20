@@ -11,6 +11,7 @@ Generating a complex synthetic economic-like dataset with trend, noise, seasonal
 
 Designing and training an advanced LSTM architecture that incorporates:
 
+
 AdamW optimizer
 
 Cosine annealing learning rate scheduler
